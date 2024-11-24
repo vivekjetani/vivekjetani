@@ -5,7 +5,10 @@
     
 </div>
 
-<h1 align="center">👋 Hi, I'm Vivek Jetani</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+jetani!;" />
+</h1>
 
 <h3 align="center">A passionate Computer Science student with a knack for innovation and problem-solving, striving to build transformative technologies that make an impact.</h3>
 
