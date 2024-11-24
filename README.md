@@ -1,3 +1,10 @@
+ <div align="center">
+    
+<!--<img src = "https://github.com/theshubh007/theshubh007/blob/main/gitartwork.svg"> -->
+<img src = "gitartwork.svg">
+    
+</div>
+
 <h1 align="center">👋 Hi, I'm Vivek Jetani</h1>
 
 <h3 align="center">A passionate Computer Science student with a knack for innovation and problem-solving, striving to build transformative technologies that make an impact.</h3>
