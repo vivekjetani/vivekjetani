@@ -119,4 +119,8 @@
 
 ---
 
+![snake gif](https://github.com/vivekjetani/vivekjetani/blob/output/github-snake-dark.svg)
+
+---
+
 <h3 align="center">✨ "Code is not just what I do, it's who I am." ✨</h3>
