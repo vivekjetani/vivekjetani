@@ -1,6 +1,5 @@
  <div align="center">
     
-<!--<img src = "https://github.com/theshubh007/theshubh007/blob/main/gitartwork.svg"> -->
 <img src = "gitartwork.svg">
     
 </div>
